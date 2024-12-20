@@ -1,7 +1,7 @@
 ---
 title: JLPTCheck
 date: 2024-12-20T15:02:00+0900
-image: assets/tiedtale.png
+image: jlptcheck.png
 categories:
   - projects
 tags:

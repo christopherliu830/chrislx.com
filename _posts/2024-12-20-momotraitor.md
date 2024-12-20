@@ -1,7 +1,7 @@
 ---
 title: Momotraitor
 date: 2024-12-20T15:02:00+0900
-image: assets/tiedtale.png
+image: momotraitor.png
 categories:
   - projects
 tags:

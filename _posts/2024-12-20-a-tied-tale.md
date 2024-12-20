@@ -1,7 +1,7 @@
 ---
 title: A Tied Tale
 date: 2024-12-20T15:02:00+0900
-image: /assets/tiedtale.png
+image: tiedtale.png
 categories:
   - projects
 tags:
