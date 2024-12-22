@@ -12,7 +12,7 @@ description: A turn-based animal sacrifice RPG.
 [Play Here](https://lletter.itch.io/momotraitor)
 Created for Wowie Jam 3.0.
 
-| Credits         | ---         |
+| Credits         |             |
 | --------------- | ----------- |
 | Christopher Liu | Programming |
 | Patrick Day     | Programming |
